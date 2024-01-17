@@ -1,0 +1,5 @@
+FROM mysql:5.7
+
+ENV MYSQL_ROOT_PASSWORD=jr
+ENV MYSQL_DATABASE=meu_banco
+
