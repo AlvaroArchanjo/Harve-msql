@@ -18,7 +18,7 @@ print("Por favor insira seu nome:")
 nome_jogador = input()
 
 # import random
-# computador = random 
+# computador = random.joice
 
 while True
     print("Escolha sua jogada: PEDRA, PAPEL ou TESOURA")
